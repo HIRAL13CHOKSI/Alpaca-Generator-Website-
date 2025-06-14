@@ -5,7 +5,9 @@
 this is a fully responsive website where you can create, customize and download your alpaca, you can also just use a randomly generated alpaca
 
 ## Image
-![Screenshot from 2022-04-20 20-18-40](https://user-images.githubusercontent.com/53101939/164306961-f0b22fe1-fc91-4328-ba0c-59e49a9df40c.png)
+![image](https://github.com/user-attachments/assets/fef1279f-4fd2-43d9-bd4b-e611346bca35)
+
+
 
 
 ## Live Preview
